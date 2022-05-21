@@ -1,143 +1,143 @@
 [[cmark_gfm]]
 arch = "aarch64"
-git-tree-sha1 = "3fe8dfff5e2ea607ce23dd6dd6367b2f4e54ae36"
+git-tree-sha1 = "4fee76b4ba27523da8b46a8a19c716715490e32d"
 os = "macos"
 
     [[cmark_gfm.download]]
-    sha256 = "2d33c05ab68ffbbb0e9243f2325799d296890502a047971948e094752bf949a3"
-    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+0/cmark_gfm.v0.29.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "85fa0750d2f362f54ca81c1d050b02e351236d87740baac3a69ae0d38a6e93bd"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+2/cmark_gfm.v0.29.0.aarch64-apple-darwin.tar.gz"
 [[cmark_gfm]]
 arch = "aarch64"
-git-tree-sha1 = "3433fac5fbf947f1252aa47356b05d5739bb1262"
+git-tree-sha1 = "5f62748e61f6daf7241e99babb76a3690093fead"
 libc = "glibc"
 os = "linux"
 
     [[cmark_gfm.download]]
-    sha256 = "7d0e794310176135a90e49d7f782ad1586876045be7100dc91d75ef7969be407"
-    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+0/cmark_gfm.v0.29.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "b76a0dffeab7867df78fecf4585474d07b62bdfdadc209593fce1cbd79d5d948"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+2/cmark_gfm.v0.29.0.aarch64-linux-gnu.tar.gz"
 [[cmark_gfm]]
 arch = "aarch64"
-git-tree-sha1 = "eb54e191d95059e82fd1ad7c3a2916a02f0c1391"
+git-tree-sha1 = "8bb970e4d7805b69808dc4bb0062080f3c45fba2"
 libc = "musl"
 os = "linux"
 
     [[cmark_gfm.download]]
-    sha256 = "c1d0c6b022b36c6ba6e6de3fe4d7f161d80e06e0fc4e2a21dee8db91b9fa6e02"
-    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+0/cmark_gfm.v0.29.0.aarch64-linux-musl.tar.gz"
+    sha256 = "46dc7914292e72ea317be8caf72581fe395bdef84f6f7ec23dbb2b0bdefe160d"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+2/cmark_gfm.v0.29.0.aarch64-linux-musl.tar.gz"
 [[cmark_gfm]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "71de2325095f5975513fbfe0839d729edbbfc167"
+git-tree-sha1 = "1569b23879e357c27c3a5888e882239be4f9fb1c"
 libc = "glibc"
 os = "linux"
 
     [[cmark_gfm.download]]
-    sha256 = "ed20f237a17bb8c0e6c9b4860150e1f132945add625fd1f6f362af09bbbce487"
-    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+0/cmark_gfm.v0.29.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "6b44cc2d585cc525aae7ac8fe8b7c1b33a4582ba64ac71d471ff5836476c1732"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+2/cmark_gfm.v0.29.0.armv6l-linux-gnueabihf.tar.gz"
 [[cmark_gfm]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "ab6ed87e145c6787256610ed54b491c66d4a7140"
+git-tree-sha1 = "2d7cdc8fcbe90f3e355d6b8eba389c9da1c13298"
 libc = "musl"
 os = "linux"
 
     [[cmark_gfm.download]]
-    sha256 = "bc845ae8ab70ed5b8ecb66cedbdd952e62feb4f502f0276f666b01a7fb336cfc"
-    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+0/cmark_gfm.v0.29.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "d74bae0d7ac403de354c404264037e9dac25e14998f8e7549aa965a38d7c0ea0"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+2/cmark_gfm.v0.29.0.armv6l-linux-musleabihf.tar.gz"
 [[cmark_gfm]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8efaf5868d834c08023f9d5bfd3186e0a745a8e6"
+git-tree-sha1 = "800d0d9a9533dfefdb8706c43597c885ece080e7"
 libc = "glibc"
 os = "linux"
 
     [[cmark_gfm.download]]
-    sha256 = "f494d9edb2b648f6e10476da2275f0f3e3c5fa9eaa273ba90d897ed346c1db6c"
-    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+0/cmark_gfm.v0.29.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "989e5815f27f54bc25da8e7d95179d060f08788eed5fb1b4d51cce441607310d"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+2/cmark_gfm.v0.29.0.armv7l-linux-gnueabihf.tar.gz"
 [[cmark_gfm]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "9b49525cfa3b6e5522a4e91bee55247ed24745f1"
+git-tree-sha1 = "a49a8e8c29963730d6e6e89265bf125cda99a91c"
 libc = "musl"
 os = "linux"
 
     [[cmark_gfm.download]]
-    sha256 = "7a3370afb84f5e400e13f77578dbc2758743f5b943e4e34a20b8c18acc9b0fa8"
-    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+0/cmark_gfm.v0.29.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "086d8ddcc66f291d9927b9fedd8449bfc8b31731b9dfc6c83cea412e0178e44d"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+2/cmark_gfm.v0.29.0.armv7l-linux-musleabihf.tar.gz"
 [[cmark_gfm]]
 arch = "i686"
-git-tree-sha1 = "1c42cacabb846acef7066aa403aec8ee1921d22f"
+git-tree-sha1 = "da8f6e77a44feb18bfd0a4bfacffc3ab635d6a6c"
 libc = "glibc"
 os = "linux"
 
     [[cmark_gfm.download]]
-    sha256 = "3d5c7b0e56a53183ca917386bd5a74a3839f4592ffb2b841598d8efb594f64ab"
-    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+0/cmark_gfm.v0.29.0.i686-linux-gnu.tar.gz"
+    sha256 = "3a8bb33d1b7210f1fa951790cff53025227aa6da6bcdf1bae913b08ce20b2639"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+2/cmark_gfm.v0.29.0.i686-linux-gnu.tar.gz"
 [[cmark_gfm]]
 arch = "i686"
-git-tree-sha1 = "a8a4d22b77126a327b6cf9371b22b58b10b27520"
+git-tree-sha1 = "5d742b2dd6ffe7edb8e6b843212a35d8b018857f"
 libc = "musl"
 os = "linux"
 
     [[cmark_gfm.download]]
-    sha256 = "06b19aa2dd7d268e91a0872cdfea029fafedbe7ebc8d1991f7b94793dc1b9d2f"
-    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+0/cmark_gfm.v0.29.0.i686-linux-musl.tar.gz"
+    sha256 = "f3b891a3740ffaaad1d0fe042b5aad2e9e4a854b82226a443591c0e2d1221948"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+2/cmark_gfm.v0.29.0.i686-linux-musl.tar.gz"
 [[cmark_gfm]]
 arch = "i686"
-git-tree-sha1 = "f5e73ffbc30e5adad0723095f4cd244b174fa905"
+git-tree-sha1 = "756756bf91e4e62a692dd2f4b28636ad2713aa74"
 os = "windows"
 
     [[cmark_gfm.download]]
-    sha256 = "63a0453482760a58788ac98d0a8a49e69536ab23bc232c03ac9cb14cb64dacec"
-    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+0/cmark_gfm.v0.29.0.i686-w64-mingw32.tar.gz"
+    sha256 = "5fb3942fc69f620c49f002ac0a10258fdb4f5a830a0891ada3a51a22fd26450d"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+2/cmark_gfm.v0.29.0.i686-w64-mingw32.tar.gz"
 [[cmark_gfm]]
 arch = "powerpc64le"
-git-tree-sha1 = "362f6af447b8328e63224c4800cc858456542204"
+git-tree-sha1 = "f5b5e0da7385ff110b56d705ceb663e0f510a7f3"
 libc = "glibc"
 os = "linux"
 
     [[cmark_gfm.download]]
-    sha256 = "687c993320288efe914f3aa3a3a641f58afbd068b30b35230f9753c6ca36123b"
-    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+0/cmark_gfm.v0.29.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "a54afb482767f10c40b55163d32aa2531cd3b1896f925c5916612b21125a614c"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+2/cmark_gfm.v0.29.0.powerpc64le-linux-gnu.tar.gz"
 [[cmark_gfm]]
 arch = "x86_64"
-git-tree-sha1 = "2eaa930e284858efc3c8125eafc6bebf33895325"
+git-tree-sha1 = "37e237b51f5ffb0fed90f5a0e587b50e3fa9ad79"
 os = "macos"
 
     [[cmark_gfm.download]]
-    sha256 = "28ba0bcc8072deeb581825bc29a5ac7bb76daf21a601f37002a7bbbefebf69f4"
-    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+0/cmark_gfm.v0.29.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "28259c1f2e401817696111397f788455eeeb6a08b5afbf967519c9c113f833c0"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+2/cmark_gfm.v0.29.0.x86_64-apple-darwin.tar.gz"
 [[cmark_gfm]]
 arch = "x86_64"
-git-tree-sha1 = "53e4e87a507a64a069d6d22861b1c271b645480e"
+git-tree-sha1 = "84aae6c79dc54de28df3a10f62a2513e4036f1fe"
 libc = "glibc"
 os = "linux"
 
     [[cmark_gfm.download]]
-    sha256 = "bc6c93efce893450cb6b929bac52cc34d6d863ac0e401eb0fa628b62a39d18ce"
-    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+0/cmark_gfm.v0.29.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "889fc93287f5295d26cea09d598367364e8386c98c00c9082a089e5d02b00bde"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+2/cmark_gfm.v0.29.0.x86_64-linux-gnu.tar.gz"
 [[cmark_gfm]]
 arch = "x86_64"
-git-tree-sha1 = "1fcebec2592ce6eb10eb1e5a1af460cafd130e0c"
+git-tree-sha1 = "19cd602df214ea3f3aa2616b5eeba24eacb12653"
 libc = "musl"
 os = "linux"
 
     [[cmark_gfm.download]]
-    sha256 = "956d6f0ceab3eacad7c694d1599cfc053383353c275f62a2a038f87aec4d0955"
-    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+0/cmark_gfm.v0.29.0.x86_64-linux-musl.tar.gz"
+    sha256 = "9415b5d322e99015084556d4d777d9abe85666ae757bb2185a221824777170b2"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+2/cmark_gfm.v0.29.0.x86_64-linux-musl.tar.gz"
 [[cmark_gfm]]
 arch = "x86_64"
-git-tree-sha1 = "4eedfe92025b44c754c521b0e54cffecf3873bf4"
+git-tree-sha1 = "69558cdb04b1564e82cbd329cdd1cf0cc7ce9b03"
 os = "freebsd"
 
     [[cmark_gfm.download]]
-    sha256 = "3527d24f68c154ff49cb22f617d5519c274ebd22c1d01d4aab96eb17e4df1ec0"
-    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+0/cmark_gfm.v0.29.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "93f56e050eeb933fee074d8553cda0a1cd9d6e127ec55b49fa9ff4837a803b35"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+2/cmark_gfm.v0.29.0.x86_64-unknown-freebsd.tar.gz"
 [[cmark_gfm]]
 arch = "x86_64"
-git-tree-sha1 = "566b2fa84ddf90b7ead3e4300520b9a166cd5fcd"
+git-tree-sha1 = "abf19cebf8a314ce8fdf6e5481708a39d03e6ddb"
 os = "windows"
 
     [[cmark_gfm.download]]
-    sha256 = "64047440e58faabad13815dec3b458692d9082c6503edbc03098caffb4588200"
-    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+0/cmark_gfm.v0.29.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "aed789b3843dee542431c17298cbaa3b6a86b8387645df2048b6574e1a0fa701"
+    url = "https://github.com/JuliaBinaryWrappers/cmark_gfm_jll.jl/releases/download/cmark_gfm-v0.29.0+2/cmark_gfm.v0.29.0.x86_64-w64-mingw32.tar.gz"
